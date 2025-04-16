@@ -12,5 +12,10 @@ A Python GUI application for calculating Variable Length Subnet Masking (VLSM). 
 
 ## How to Run
 ```bash
-pip install -r requirements.txt or py -m pip install -r requirements.txt
+cd VLSM-GUI-Calculator-IPV4
+```bash
+pip install -r requirements.txt
+- or
+py -m pip install -r requirements.txt
+```bash
 python gui_vlsm.py
