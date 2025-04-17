@@ -9,6 +9,8 @@ A Python GUI application for calculating Variable Length Subnet Masking (VLSM). 
 ## Requirements
 - Python 3.8+
 - customtkinter
+## GIF
+![ezgif-57821deadce331](https://github.com/user-attachments/assets/ac368fd6-0f02-4e98-99bf-5ef7eb1dc50d)
 
 ## How to Run
 ```bash
